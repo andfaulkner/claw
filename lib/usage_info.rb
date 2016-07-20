@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 # help text for inject_at_match
 module UsageInfo
   def self.usage_section
