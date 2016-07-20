@@ -1,4 +1,6 @@
 Gem::Specification.new do |s|
+  files = `git ls-files`.split($OUTPUT_RECORD_SEPARATOR).grep(/(.*\.rb)|(bin\/[^\.]*)|(.*\.rake)|(.*\.sh)/)
+  puts "files included in gem: #{files}"
   s.name          = 'claw'
   s.version       = '0.0.0'
   s.date          = '2016-07-20'
@@ -6,7 +8,7 @@ Gem::Specification.new do |s|
   s.description   = 'Terminal utilities for manipulating text files. Prepend, append, replace, or delete lines on regex matches in text files'
   s.authors       = ['Andrew Faulkner']
   s.email         = 'andfaulkner@gmail.com'
-  s.files         = [`git ls-files`.split($OUTPUT_RECORD_SEPARATOR)]
+  s.files         = files
   s.homepage      = 'http://rubygems.org/gems/claw'
   s.license       = 'MIT'
   s.executables   = ['claw']
