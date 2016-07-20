@@ -1,0 +1,1458 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"load",
+				"load	Run code in given file. Each time load calls a file it is rerun (unlike require)"
+			],
+			[
+				"req",
+				"req	Import a ruby file, library, or gem"
+			],
+			[
+				"def",
+				"def	def … end"
+			],
+			[
+				"class",
+				"class	Basic new class"
+			],
+			[
+				"rake_callt",
+				"rake_calltask_reenable	Reset Rake task called in-code to allow calling it again"
+			],
+			[
+				"rake_cal",
+				"rake_call_reenable	Reset Rake task called in-code to allow calling it again"
+			],
+			[
+				"rake_tas",
+				"rake_task_w_args	Create rake task that takes cli params"
+			],
+			[
+				"rubo",
+				"rubocop_disable_hashsyntax	Disable HashSyntax rule (useful in Rake files) "
+			],
+			[
+				"rake_",
+				"rake_task_w_deps	Create rake task with multiple dependencies on other tasks"
+			],
+			[
+				"SOUR",
+				"SOURCE_FILES"
+			],
+			[
+				"file_dir_",
+				"file_del_dir_recursive	Remove directory and its contents, recursively"
+			],
+			[
+				"file_",
+				"file_dir_mkdir	Make a directory"
+			],
+			[
+				"rake",
+				"rake_filelist_exclude_block	Exclude items from a file list via a boolean-ret block"
+			],
+			[
+				"markd",
+				"markdown_files"
+			],
+			[
+				"rake_f",
+				"rake_filelist_deep	Get all files of a given type in current dir or deeper"
+			],
+			[
+				"snip_",
+				"snip_base	Snippet skeleton"
+			],
+			[
+				"sn",
+				"snip_fn_alphanum_only_asvar	Name of file currently being edited, w non-alphanum chars rm. Filename is a var."
+			],
+			[
+				"fiel_cd",
+				"file_dir_cd	Change directory like cd does in the terminal"
+			],
+			[
+				"file_cd",
+				"file_dir_cd	Change directory like cd does in the terminal"
+			],
+			[
+				"cla",
+				"cla	class << self .. end"
+			],
+			[
+				"cla_",
+				"cla_rich	Class lifecycle method that runs when method added to class"
+			],
+			[
+				"cd",
+				"cd	Change directory like cd does in the terminal"
+			],
+			[
+				"file_del_di",
+				"file_del_dir_cont_1lvl	Remove directory contents non-recursively: leave subdirs intact"
+			],
+			[
+				"file_rm",
+				"file_dir_rm_cont	Remove directory contents but not the directory itself"
+			],
+			[
+				"file_dir",
+				"file_dirname	Get path of directory containing file"
+			],
+			[
+				"snip",
+				"snip_base	Snippet skeleton"
+			],
+			[
+				"hash_d",
+				"hash_default	Set default val for hash, ret if key lookup done on nonexistent key"
+			],
+			[
+				"Rege",
+				"require_regex"
+			],
+			[
+				"meta",
+				"metap_method_missing_w_super	Create method_missing method for a class. Call overridden method_missing."
+			],
+			[
+				"metao",
+				"metap_method_missing_w_super	Create method_missing method for a class. Call overridden method_missing."
+			],
+			[
+				"metap_m",
+				"metap_method_missing_w_super	Create method_missing method for a class"
+			],
+			[
+				"cl_m",
+				"class-create_method	Create method to define new methods"
+			],
+			[
+				"mtd",
+				"method_missing"
+			],
+			[
+				"Badas",
+				"BadassTwo"
+			],
+			[
+				"square",
+				"orig_squarebrackets"
+			],
+			[
+				"sub",
+				"subapp"
+			],
+			[
+				"alias_",
+				"alias_method_orig"
+			],
+			[
+				"is_",
+				"set_is_verbose"
+			],
+			[
+				"added",
+				"added_methods"
+			],
+			[
+				"arr_find",
+				"arr_find_index_string	Return index of 1st matching item"
+			],
+			[
+				"metap",
+				"metap_method_maker	Create method to define new methods"
+			],
+			[
+				"attr",
+				"attra	Create accessor for a class in Ruby"
+			],
+			[
+				"orig_",
+				"orig_squares"
+			],
+			[
+				"Ke",
+				"KernelExtensions"
+			],
+			[
+				"mod",
+				"mod	module .. module_function .. end"
+			],
+			[
+				"__",
+				"__file__	Name of current file. Includes extension, excludes path. E.g. asdf.rb"
+			],
+			[
+				"fname",
+				"file_dirname	Get path of directory containing file"
+			],
+			[
+				"F",
+				"FILE	Name of current file. Includes extension, excludes path. E.g. asdf.rb"
+			],
+			[
+				"_",
+				"__file__	Name of current file. Includes extension, excludes path. E.g. asdf.rb"
+			],
+			[
+				"log_l",
+				"log_level_opt"
+			],
+			[
+				"app",
+				"app_launching_script	Output name of file used to start program"
+			],
+			[
+				"str_",
+				"str_squeeze	Remove all duplicates of given char from string"
+			],
+			[
+				"inject",
+				"inject_at_match_path"
+			],
+			[
+				"single",
+				"singleton_experiment"
+			],
+			[
+				"cl_",
+				"cl_lc_ma	Class lifecycle method that runs when method added to class"
+			],
+			[
+				"cl_lc",
+				"cla_lc_ma	Class lifecycle method that runs when method added to class"
+			],
+			[
+				"mo",
+				"mod	module .. ClassMethods .. end"
+			],
+			[
+				"defn",
+				"defn	ruby--def_base"
+			],
+			[
+				"red",
+				"reduce	func"
+			],
+			[
+				"module",
+				"def_module	func"
+			],
+			[
+				"each",
+				"each2	func"
+			],
+			[
+				"rktsk",
+				"rktsk	Create new basic rake task"
+			],
+			[
+				"before",
+				"before_filter"
+			],
+			[
+				"h1",
+				"h1	Markdown top-level header (level 1 header)"
+			],
+			[
+				"h2",
+				"h2	Markdown subheader (level 2 header)"
+			],
+			[
+				"instan",
+				"instance_methods	func"
+			],
+			[
+				"cl",
+				"cl	classify { |e| .. }"
+			],
+			[
+				"down",
+				"downto	func"
+			],
+			[
+				"logme",
+				"logmethinst	Display methods of an object MINUS methods of parent objects / classes"
+			],
+			[
+				"comm",
+				"comment_moduleheading	Main module heading - explain what module does etc."
+			],
+			[
+				"readFileS",
+				"fs.readFileSync(path, options);"
+			],
+			[
+				"readFile",
+				"fs.readFileSync(path, options);"
+			],
+			[
+				"comment",
+				"comment_notebig	Moderate-size comment (3 line +)"
+			],
+			[
+				"log",
+				"log__var_val_in_block	Output var to CLI in big, conspicuous block"
+			],
+			[
+				"inspect",
+				"util.inspect(obj, opts);"
+			],
+			[
+				"_sort",
+				"_sortByAll	Sort arr or obj via any # of sorters (both sort vals & fns)"
+			],
+			[
+				"seneca_",
+				"seneca_restapi_plugin	seneca--add-restapi-action-call"
+			],
+			[
+				"test_entity",
+				"test_entity_1"
+			],
+			[
+				"seneca",
+				"seneca_add_action	seneca--add-action"
+			],
+			[
+				"comment_",
+				"comment_notegigantic	Large comment not directly defining a module, class, fn, or method"
+			],
+			[
+				"er",
+				"error	Event"
+			],
+			[
+				"con",
+				"console.dir"
+			],
+			[
+				"random",
+				"Math.random()	Math"
+			],
+			[
+				"comment_m",
+				"comment_block_monster	Monster-size comment block - to divide file into sections"
+			],
+			[
+				"Error",
+				"new Error(${0:message})	Error"
+			],
+			[
+				"seneca_new_ms",
+				"seneca_new_ms	seneca--basic-microservice"
+			],
+			[
+				"cons",
+				"console.error"
+			],
+			[
+				"inner",
+				"innerHTML	Element"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"g",
+				"get	$.get()"
+			],
+			[
+				"rren",
+				"react_ren	react--React-render--renders_element"
+			],
+			[
+				"cdm",
+				"cdm	React: componentDidMount: fn() { ... }"
+			],
+			[
+				"err",
+				"error	Event"
+			],
+			[
+				"loc_",
+				"loc_href	e.g. \"http://localhost:3002/components/react-1/index.html\". Full URL of current page."
+			],
+			[
+				"react_t",
+				"react_tss	react--this.setState"
+			],
+			[
+				"rc_",
+				"rc_fullupdatelifecycle	react--component--full-update-lifecycle"
+			],
+			[
+				"react_",
+				"react_tsp	react--this.setProps"
+			],
+			[
+				"rc",
+				"rcwm	react--component-lifecycle--mounting--componentWillMount"
+			],
+			[
+				"r",
+				"rcwm	react--component-lifecycle--mounting--componentWillMount"
+			],
+			[
+				"pro",
+				"props	React: this.props"
+			],
+			[
+				"rc_mou",
+				"rc_mounter	react--component-mounter--(mounts_another_component)"
+			],
+			[
+				"rc_mount",
+				"rc_mountable	react--component-mountable"
+			],
+			[
+				"rc_m",
+				"rc_mounter	react--component-mounter--(mounts_another_component)"
+			],
+			[
+				"rc_moun",
+				"rc_mountable	react--component-mountable"
+			],
+			[
+				"ts",
+				"toString()	String"
+			],
+			[
+				"ren",
+				"ren	React: render() {…}"
+			],
+			[
+				"prop",
+				"props	React: this.props."
+			],
+			[
+				"props",
+				"props	React: this.props."
+			],
+			[
+				"gis",
+				"gis	React: getInitialState: fn() { return {...} } "
+			],
+			[
+				"rcc",
+				"rcc	React: class component"
+			],
+			[
+				"livereload",
+				"livereloadSetup"
+			],
+			[
+				"exec",
+				"child_process.exec"
+			],
+			[
+				"re",
+				"req	nodejs--require"
+			],
+			[
+				"c",
+				"cl	console.log"
+			],
+			[
+				"bv",
+				"bv	Backbone View"
+			],
+			[
+				"b",
+				"bd	Backbone requirejs Module definition"
+			],
+			[
+				"node",
+				"nodeType	Node"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"be",
+				"betrigger	Backbone.js events trigger"
+			],
+			[
+				"bu",
+				"buBackbone.$	Backbone.js utility Backbone.$"
+			],
+			[
+				"create",
+				"crypto.createVerify"
+			],
+			[
+				"getElement",
+				"document.getElementById(${0:id})	Document"
+			],
+			[
+				"exit",
+				"process.exit"
+			],
+			[
+				"first",
+				"_.first"
+			],
+			[
+				"nextTi",
+				"process.nextTick"
+			],
+			[
+				"new_",
+				"new_route_module	nodejs--new_route"
+			],
+			[
+				"getM",
+				"getMonth()	Date"
+			],
+			[
+				"sene",
+				"seneca_new_ms	seneca--basic-microservice"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"error",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"file new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"file dele",
+				"File: Delete"
+			],
+			[
+				"file renam",
+				"File: Rename"
+			],
+			[
+				"file",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"next",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"markdownExte",
+				"MarkdownEditing: Fix Underlined Headers"
+			],
+			[
+				"set syntax: mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"markdownEx",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"bookmar",
+				"Bookmarks: Toggle"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"JSON",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"snippet form",
+				"Snippet: html--textFormSubmit"
+			],
+			[
+				"snippet",
+				"Snippet: HTML - Navigation object (inline-block)"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Favorite Files: Add File(s)"
+			],
+			[
+				"favor",
+				"Favorite Files: Add File(s)"
+			],
+			[
+				"jshint",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Babel Transform"
+			],
+			[
+				"syntax: JSX",
+				"Set Syntax: JSX"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"favori",
+				"Favorite Files: Open File(s)"
+			],
+			[
+				"fav",
+				"Favorite Files: Open File(s)"
+			],
+			[
+				"jscs",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"Favorite",
+				"Favorite Files: Add File(s)"
+			],
+			[
+				"TodoR",
+				"TodoReview: Project Files"
+			],
+			[
+				"Snippet: re",
+				"Snippet: REGEX--line-containing-item1-not-followed-by-item-2"
+			],
+			[
+				"Snippet: ",
+				"Snippet: REGEX--line-containing-item1-not-followed-by-item-2"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"bookmark",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"syntax: d",
+				"Set Syntax: Dust"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"set syntax: sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"set syntax: Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"Snippet",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 745.0
+	},
+	"console":
+	{
+		"height": 226.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/_docs_guides/todos/todo-ongoing.md",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/importing/ruby--add-to-LOAD_PATH.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/regular-expressions/regex--match-legal-ruby-versions.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/methods/ruby--methods--partial_method.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/test-methadone-cli-app-one/lib/test/methadone/cli/app/one.rb",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/test-methadone-cli-app-one/bin/test-methadone-cli-app-one",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/test-methadone-cli-app-one/test-methadone-cli-app-one.gemspec",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/_docs_guides/books_articles/ruby_books/Build Awesome Command-Line Applications in Ruby 2.pdf",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/.gitignore",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/RuboCop.sublime-settings",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/RuboCop/RuboCop.sublime-settings",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/_docs_guides/todos/projects/todo-microprojects--idle-game.md",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/_docs_guides/todos/projects/todo-microprojects--text-adventure.md",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/_docs_guides/todos/projects/todo-microprojects--movie-predictor.md",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/_docs_guides/todos/todo-microprojects--wiki-soundmachine.md",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/_docs_guides/todos/todo-microprojects--text-adventure.md",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/_docs_guides/todos/todo-microprojects--wiki-imagemachine.md",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/_docs_guides/todos/todo-microprojects--personal-blog.md",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/_docs_guides/todos/todo-microprojects--dog-site.md",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/_docs_guides/todos/todo-microprojects--movie-predictor\n.md",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/_docs_guides/todos/todo-microprojects--idle-game.md",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/_docs_guides/todos/todo-microprojects--free-for-all-forum.md",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/docs/arbre.md",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/tasks/installer.rake_OLD",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/tasks/file_handling.rake_OLD",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/tasks/avdi_tutorial/avdi_tutorial_pt_4_pathmap.rake",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/tasks/avdi_tutorial/source_files.rb",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/tasks/avdi_tutorial/avdi_tutorial_pt_1_rules_and_tasks.rake",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/string/ruby--string--to_integer-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/string/ruby--string--to_float-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/ruby--at_exit.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/string/ruby--string--tr.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/string/ruby--string--sub.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/string/ruby--string--to_integer.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/string/ruby--string--to_float.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/string/ruby--string--reverse.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/string/ruby--string--capitalize.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/rake/ruby--rake--task-that-takes-cli-args.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/rake/ruby--rake-filelist.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/rake/ruby--rake--call-task-from-task.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/rake/ruby--rake--call-task-from-task--multiple-times.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/string/ruby--string--prepend.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/variables/ruby--global-variables.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/variables/ruby--global-variables-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/variables/ruby--global-variables-4.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/variables/ruby--local-variables.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/variables/ruby--local-variables-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/variables/ruby--local-variables-3.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/variables/ruby--local-variables-4.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/variables/ruby--global-variables-3.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/rake/ruby--rake--new-task-with-dependency.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/rake/ruby--rake--new-namespace.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/rake/ruby--rake--new-task-with-dependencies.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/directives/ruby-rubocop-disable-HashSyntax.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/directives/ruby-rubocop-disable-rule.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/rake/ruby--rake--new-task.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/tasks/helpers/rake_helpers.rb",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/rake/ruby-rails--rake--call-task-from-task.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/ruby--global-variables-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/ruby--at_exit-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/methods/ruby--methods--partial_method-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_string.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_symbol-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_range-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_regexp-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_proc-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_symbol.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_symbol-3.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_proc-3.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_module-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_class.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_method.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_trueclass-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_falseclass-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_nilclass-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_class-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_method-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_hash.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_array.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_string-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_number.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_hash-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_array-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_number-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_integer.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/types/ruby--types--is_a_integer-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/rake/ruby--rake-filelist--exclude-from-list--via-block.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/rake/ruby--rake-filelist--create_using_block.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/tasks/avdi_tutorial/avdi_tutorial_pt_2_filelists.rake",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/tasks/avdi_tutorial/avdi_tutorial_pt_0_default_tasks.rake",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/tasks/avdi_tutorial/avdi_tutorial_pt_3_pass_lambdas_to_rules.rake",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/rake_test_files/markdowns/doc_2.md",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/rake_test_files/markdowns/doc_1.markdown",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/rake_test_files/scratch/test5.erko",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/rake/ruby--rake-filelist--exclude-from-list.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/rake_test_files/level_2_test/~test4.erko",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/rake/ruby--rake-filelist--all-files-of-type.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/tasks/experiments.rake_OLD",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/tasks/cane.rake_OLD",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/rake_test_files/level_2_test/test3.erko",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/classes/ruby--class--singleton.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/classes/ruby--class_sectioned.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/XML-snippets/snippet-def-snippets/snippetdef--filename_letters_only.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/.rubocop.yml",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/file_ops/dir/ruby--file--dir--questionmark.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/file_ops/dir/ruby--file--dir--cd--change-directory.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/file_ops/dir/ruby--file--dir--cd--change-directory-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/docs/todo.md",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/array/ruby--array--length.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/tasks/helpers",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/array/ruby--array--size.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/file_ops/dir/ruby--file--dir--make-directory.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/something.ok",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/test1.erko",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/test2.erko",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/tasks/generate_project_extras.rake",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/dev-env/.irbrc",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/tasks/avdi_tutorial.rake",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/file_ops/delete/ruby--file--remove-dir-contents-nonrecursively.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/file_ops/delete/ruby--file--dir--remove-dir-contents-but-not-dir.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/Gemfile.lock",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/Gemfile",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/file_ops/delete/ruby--file--dir--remove-dir-and-contents--recursive-2.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/file_ops/delete/ruby--file--dir--remove-dir-and-contents--recursive.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/file_ops/delete/ruby--file--delete-file-or-files.sublime-snippet",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/example_test_projects/ruby_demoing_proj/docs/html_output/out-test.rb",
+		"/Users/andrewfaulkner/Library/Application Support/Sublime Text 3/Packages/User/sublime-dev-environment-snippet/snippets/ruby-snippets/file_ops/dir/ruby--file--dir--remove-dir-and-contents--recursive.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>,-node_modules/**,-.build/**,*.rb,-gulpfile.js",
+			"<project>,-node_modules/**,-.build/**,*.js,-gulpfile.js",
+			"<project>",
+			"<project>,-node_modules/**,-.build/**,*.js,-gulpfile.js",
+			"<project>,-node_modules/**,-.build/**,*.js",
+			"<project>,-node_modules/**,-.build/**",
+			"<project>,-node_modules/**",
+			"<project>",
+			"/home/andfaulkner/Projects/testbed/testbed-seneca--4/",
+			"/home/andfaulkner/Projects/testbed/express-backbone-testbed-3/node_modules/seneca",
+			"<project>",
+			"<project>, ,-node_modules",
+			"/home/andfaulkner/Projects/testbed/express-backbone-testbed-3",
+			"/home/andfaulkner/Projects/testbed/express-backbone-testbed-3/node_modules/material-ui",
+			"<project>,-node_modules/**/*.*",
+			"<project>,-node_modules**",
+			"<project>,-node_modules",
+			"<project>/app",
+			"<project>",
+			"/home/andfaulkner/Projects/testbed/express-testbed-2/app",
+			"<project>",
+			"/home/andfaulkner/Projects/testbed/express-testbed/src",
+			"<project>",
+			"/home/andfaulkner/Projects/express/express-test-3,-/home/andfaulkner/Projects/express/express-test-3",
+			"/home/andfaulkner/Projects/express/express-test-3,-/home/andfaulkner/Projects/express/express-test-3/node_modules/**",
+			"/home/andfaulkner/Projects/express/express-test-3,-/home/andfaulkner/Projects/express/express-test-3/node_modules",
+			"/home/andfaulkner/Projects/express/express-test-3",
+			"/home/andfaulkner/Projects/express/express-test-3/app.js,/home/andfaulkner/Projects/express/express-test-3/package.json,/home/andfaulkner/Projects/express/express-test-3/bin,/home/andfaulkner/Projects/express/express-test-3/public,/home/andfaulkner/Projects/express/express-test-3/routes,/home/andfaulkner/Projects/express/express-test-3/views",
+			"/home/andfaulkner/Projects/express/express-test-3/bin,/home/andfaulkner/Projects/express/express-test-3/public,/home/andfaulkner/Projects/express/express-test-3/routes,/home/andfaulkner/Projects/express/express-test-3/views",
+			"<project>",
+			"web_modules/js/**",
+			"web_modules/**",
+			"web_modules"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"../",
+			"opts",
+			"ruby",
+			"\"",
+			"second",
+			"\"",
+			"{ |f",
+			"\"",
+			"DrbTestApp",
+			"rake ",
+			"%p",
+			"MARKDOWN_FILES",
+			"markdown_files",
+			"MARKDOWN_FILES",
+			"markdown_files",
+			"\\.md",
+			".md",
+			"erk_files",
+			"files",
+			"\"",
+			"fl",
+			"(?<!\\\\)\\$",
+			"(?<=\\\\)\\$",
+			"\\$",
+			"2",
+			"${2: OptionalClassToExtendFrom}",
+			"called",
+			"pushd",
+			"dir_stack",
+			"$di",
+			"\"",
+			"html",
+			"'",
+			"\"",
+			"html",
+			".html",
+			"#",
+			"\"",
+			"file",
+			"\"",
+			"rake",
+			"\"#{",
+			"HashSyn",
+			"rake",
+			"sublime",
+			",",
+			"key",
+			"each_pair",
+			"key-value pair",
+			"any",
+			"keys",
+			"key",
+			"\"",
+			"''",
+			"\"",
+			"	",
+			"\"",
+			"FrozenStringLiteralComment",
+			"mongo:\\/\\/",
+			"MethodDef",
+			"IndentationWidth",
+			"IndentationConsistency",
+			"Style/IndentationConsistency",
+			"BracesAroundHashParameters",
+			"AlignParameters",
+			"proj",
+			"AlignHash",
+			"\"",
+			"ls",
+			"lsa",
+			"enabler",
+			"; Dir.pwd",
+			"Dir.new(Dir.pwd)",
+			"class",
+			"arena_width",
+			"10",
+			"  \n",
+			"@btn.replace",
+			"keys ",
+			".replace",
+			"  ",
+			",",
+			"concurrent-ruby",
+			"require",
+			"<<",
+			"@added_methods",
+			"concurrent",
+			"better_errors",
+			"gem ['\"]pry",
+			"gem ['\"]rails['\"]",
+			"\"",
+			"group.*development",
+			"begin(.|[\\n])*until",
+			"begin[^~]*until",
+			"begin",
+			"hello",
+			"\"",
+			"orig_method_missing",
+			"orig_squarebackets_equals",
+			"orig_[]",
+			"orig_[]=",
+			"method\\(",
+			"orig_method_missing",
+			"orig_square_assign",
+			":orig_squares",
+			"\"",
+			"@@added_methods",
+			"self.class.added_methods",
+			"added_methods",
+			"@@added_methods",
+			"added_methods",
+			"@@added_methods",
+			"@added_methods",
+			"_method",
+			".to_s",
+			"set_is_verbose",
+			"self.",
+			"alias_orig",
+			"alias",
+			",",
+			"alias_method",
+			"@verbose",
+			"foo",
+			"ind",
+			"method_missing",
+			"APP_OPTIONS",
+			"split_fname",
+			"split_filename"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			": ",
+			"alias_method",
+			"Class",
+			"{\n",
+			"has_ext",
+			"[",
+			"config",
+			"	",
+			"return ",
+			"",
+			",\\n            at ",
+			",\\n            ",
+			",\\n",
+			"\\nat",
+			"-",
+			"/",
+			"=",
+			"=    ",
+			"    ",
+			"Content1",
+			"ContentExample1",
+			"'",
+			"client",
+			"/ul",
+			"<ul>",
+			"TodoView",
+			"appView",
+			"todoView",
+			"todoListColl",
+			"todoModel",
+			"",
+			"app.coll.todoList",
+			"app.model.todo",
+			"app.",
+			"AppClass",
+			"appClass.",
+			"console.log",
+			"'",
+			"log.info",
+			"console.log",
+			"'",
+			"base_name",
+			"proto-route",
+			"fPath",
+			"DEST",
+			"SRC",
+			"rObj",
+			"\"",
+			"\"imgURL\"",
+			"\"imgURLs\"",
+			"defPluginRegisterCb",
+			"handleRegisterError",
+			"testArr",
+			"",
+			"\\t\\/\\*DEBUG\\}\\}>\\*\\/",
+			"\\t/*<{{DEBUG*/",
+			"",
+			"function navdrawer_",
+			"p.size ))",
+			"args.casper",
+			"args.runOnce",
+			"args.stats",
+			"args.production",
+			"_copy-static",
+			"__compiler",
+			"compiler"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 68.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 23.0
+	},
+	"output.nodejs":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "Packages/User/Scheme.sublime-build",
+	"project": "epee.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"todo",
+				"sublime-dev-environment-snippet/_docs_guides/todos/todo-ongoing.md"
+			],
+			[
+				"todoon",
+				"sublime-dev-environment-snippet/_docs_guides/todos/todo-ongoing.md"
+			],
+			[
+				"rakesnippet",
+				"sublime-dev-environment-snippet/snippets/ruby-snippets/rake/ruby--rake-filelist.sublime-snippet"
+			],
+			[
+				"chdirsnippet",
+				"sublime-dev-environment-snippet/snippets/ruby-snippets/file_ops/dir/ruby--file--dir--cd--change-directory-2.sublime-snippet"
+			],
+			[
+				"-dir-",
+				"sublime-dev-environment-snippet/snippets/ruby-snippets/file_ops/dir/ruby--file--dir--questionmark.sublime-snippet"
+			],
+			[
+				"filedele",
+				"sublime-dev-environment-snippet/snippets/ruby-snippets/file_ops/ruby--file--delete.sublime-snippet"
+			],
+			[
+				"directivessnipp",
+				"sublime-dev-environment-snippet/snippets/ruby-snippets/directives/ruby-encoding-comment-intro.sublime-snippet"
+			],
+			[
+				"filecopy",
+				"sublime-dev-environment-snippet/snippets/ruby-snippets/file_ops/ruby--file--copy-file.sublime-snippet"
+			],
+			[
+				"rubocop.yml",
+				"sublime-dev-environment-snippet/.rubocop.yml"
+			],
+			[
+				"rubocop",
+				"sublime-dev-environment-snippet/_docs_guides/ruby_demoing_proj/.rubocop.yml"
+			],
+			[
+				".irbrc",
+				"sublime-dev-environment-snippet/dev-env/.irbrc"
+			],
+			[
+				"pry",
+				"sublime-dev-environment-snippet/_docs_guides/ruby_docs/debugging_testing/pry--guide.md"
+			],
+			[
+				"gem",
+				"sublime-dev-environment-snippet/_docs_guides/ruby_demoing_proj/Gemfile"
+			],
+			[
+				"man__at",
+				"sublime-dev-environment-snippet/custom-manuals/man__at"
+			],
+			[
+				"gemfil",
+				"sublime-dev-environment-snippet/_docs_guides/ruby_demoing_proj/Gemfile"
+			],
+			[
+				"-snippet",
+				"sublime-dev-environment-snippet/base-snippet-template.sublime-snippet"
+			],
+			[
+				"injectatmat",
+				"sublime-dev-environment-snippet/scripts/ruby/inject_at_match.rb"
+			],
+			[
+				"ruby-meta",
+				"sublime-dev-environment-snippet/snippets/ruby-snippets/metaprogramming/ruby-metaprogramming-public_send.sublime-snippet"
+			],
+			[
+				"injectlocal",
+				"sublime-dev-environment-snippet/scripts/ruby/inject_local_dev_env"
+			],
+			[
+				"injectatma",
+				"sublime-dev-environment-snippet/_docs_guides/ruby_demoing_proj/spec/rspec_inject_at_match.rb"
+			],
+			[
+				"metaprogramm",
+				"sublime-dev-environment-snippet/snippets/ruby-snippets/classes/ruby-metaprogramming-public_send.sublime-snippet"
+			],
+			[
+				"classsnippet",
+				"sublime-dev-environment-snippet/snippets/ruby-snippets/classes/ruby--class_sectioned.sublime-snippet"
+			],
+			[
+				"shcheatsheet",
+				"snippets/snippets/sh/sh--cheatsheet-template.sublime-snippet"
+			],
+			[
+				"rake",
+				"snippets/snippets/ruby/rails/ruby-rails--rake--new-task.sublime-snippet"
+			],
+			[
+				"lambda",
+				"snippets/_docs_guides/ruby/f001-blocks_procs_lambdas.rb"
+			],
+			[
+				"snippets.",
+				"sublime-dev-environment-snippet/snippets.sublime-project"
+			],
+			[
+				"controller",
+				"sublime-dev-environment-snippet/_docs_guides/ruby/rails/controllers.md"
+			],
+			[
+				"rubygem",
+				"snippets/_docs_guides/ruby/rails/z001-gems.sh"
+			],
+			[
+				"populate-triggers",
+				"script/populate-triggers.js"
+			],
+			[
+				"eshel",
+				"public/js/lib/es-helpers.js"
+			],
+			[
+				"gridfilterstmpl",
+				"public/templates/common/grid-filters-tmpl.dust"
+			],
+			[
+				"gridfiltersview",
+				"public/js/views/common/grid-filters-view.js"
+			],
+			[
+				"elasticsearchcoll",
+				"public/js/lib/elasticsearch-collection.js"
+			],
+			[
+				"backbonegrid",
+				"public/js/lib/backbone-grid.js"
+			],
+			[
+				"settingsview",
+				"public/js/views/settings/picklist-settings-view.js"
+			],
+			[
+				"casemodel",
+				"public/js/models/case-model.js"
+			],
+			[
+				"case-model",
+				"public/js/models/case-model.js"
+			],
+			[
+				"advancedsearch",
+				"public/js/views/search/advanced-search-view.js"
+			],
+			[
+				"backbonemodel",
+				"public/js/lib/backbone-model.js"
+			],
+			[
+				"filemodel",
+				"public/js/models/file-model.js"
+			],
+			[
+				"filedetails",
+				"public/js/views/file/file-details-view.js"
+			],
+			[
+				"web.js",
+				"lib/api/web.js"
+			],
+			[
+				"generica",
+				"lib/api/GenericApi.js"
+			],
+			[
+				"apicase",
+				"lib/api/api-case.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1304.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
